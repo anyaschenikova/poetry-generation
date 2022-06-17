@@ -16,5 +16,18 @@ Quick access to models is standard for models from Hugging face:
 
 ## examples
 
-Generation examples are in the appropriate folder.
+Generation examples are in the appropriate folder. And some here:
+
+*   Mayakovsky:
+
 ![image](https://user-images.githubusercontent.com/58432297/174232535-785c1439-12da-4905-bb54-3133cb0b7c59.png)
+
+*   Blok: 
+
+![image](https://user-images.githubusercontent.com/58432297/174232771-0018b232-a29e-47eb-b6ef-b3356e674592.png)
+
+*   Yesenin: 
+
+![image](https://user-images.githubusercontent.com/58432297/174232845-c2959145-0e2e-4e39-8a58-3ca80ab6e404.png)
+
+
